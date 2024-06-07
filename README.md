@@ -1,4 +1,4 @@
 
 # COURSE WELDING
 
-    - Curso del Editor Vim
+    - Curso soldadura de materiales
